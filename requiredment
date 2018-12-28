@@ -1,0 +1,7 @@
+flask
+flask-script
+flask-sqlalchemy
+flask-session
+mysql
+redis
+Pillow
